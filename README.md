@@ -1,2 +1,2 @@
 # Oops-Banner-App<br>
-This repository contains UC1, UC2, UC3 and UC4
+This repository is created to create a basic app in order to learn how github works.
